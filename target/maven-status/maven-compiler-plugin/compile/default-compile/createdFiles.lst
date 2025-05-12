@@ -1,0 +1,17 @@
+com\mycompany\kursovoy\trainModelDao.class
+com\mycompany\kursovoy\Train.class
+com\mycompany\kursovoy\trainWorkerDao.class
+com\mycompany\kursovoy\trainPathDao.class
+com\mycompany\kursovoy\trainModel.class
+com\mycompany\kursovoy\trainPathChangeServlet.class
+com\mycompany\kursovoy\ContexClass.class
+com\mycompany\kursovoy\InstanceClass.class
+com\mycompany\kursovoy\trainDao.class
+com\mycompany\kursovoy\JAXRSConfiguration.class
+com\mycompany\kursovoy\trainWorker.class
+com\mycompany\kursovoy\resources\JavaEE8Resource.class
+com\mycompany\kursovoy\daoInterface.class
+com\mycompany\kursovoy\trainChangeServlet.class
+com\mycompany\kursovoy\trainPath.class
+com\mycompany\kursovoy\trainWorkerChangeServlet.class
+com\mycompany\kursovoy\trainModelChangeServlet.class
